@@ -25,5 +25,10 @@
     // Dispose of any resources that can be recreated.
 }
 
+- (void)leftBtnClick
+{
+    NSLog(@"hello world");
+}
+
 
 @end
