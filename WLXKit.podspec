@@ -13,13 +13,13 @@ DESC
 s.homepage     = "https://github.com/yaoxc/"
 
 s.license      = "MIT"
-s.license      = { :type => "MIT"， :file => "LICENSE" }
+s.license      = { :type => "MIT", :file => "LICENSE" }
 
 s.author             = { "yaoxinchao" => "ios_yaoxinchao@163.com" }
 
 s.platform     = :ios, "9.0"
 
-s.source       = { :git => "https://github.com/yaoxc/WLXKit.git"， :tag => "0.0.1" }
+s.source       = { :git => "https://github.com/yaoxc/WLXKit.git", :tag => "0.0.1" }
 
 s.source_files  = "WLXKit/**/*.{h,m}"
 
